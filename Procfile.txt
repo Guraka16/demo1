@@ -1,0 +1,1 @@
+web: java -Dserver.por=$PORT -jar target/*.jar
